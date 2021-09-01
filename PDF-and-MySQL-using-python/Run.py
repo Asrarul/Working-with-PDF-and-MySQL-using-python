@@ -6,7 +6,7 @@ import mysql.connector
 
 # Connecting Database and assigning it to db variable
 db = mysql.connector.connect(
-    host="LOCALHOST",         # Enter Your Database Host
+    host = "LOCALHOST",       # Enter Your Database Host
     user = "YOURUSERNAME",    # Enter Your Database User name
     password = "YOURPASSWORD" # Enter Your Database Password
 )
