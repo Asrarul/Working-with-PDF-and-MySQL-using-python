@@ -21,4 +21,4 @@ This Program uses two python libraries called **pdfplumber** and **mysql.connect
 
 *I've provided useful comments in the program for you to understand how the program actually works.*
 
-Thank you :blush: .
+Thank you :blush: 
